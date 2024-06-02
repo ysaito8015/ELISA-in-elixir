@@ -24,6 +24,7 @@ defmodule ElisaExample.MixProject do
       {:nx, "~> 0.5.0"},
       {:nimble_csv, "~> 1.1"},
       {:vega_lite, "~> 0.1.9"},
+      {:explorer, "~> 0.8.0"},
     ]
   end
 end
